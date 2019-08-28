@@ -8,13 +8,13 @@ layout: instructors_notes
 title: Instructors' Notes
 
 setup:
-  - title: Name of the task
+  - title: Be ready for things to be difficult
     description: |
       Provide a brief description of the task.
-  - title: Name of another task
+  - title: Be ready to make mistakes
     description: |
       Provide a brief description of this task.
-  - title: Oh. You need a little dummy text for your mockup? How quaint.
+  - title: Be really ready to understand it is okay.
     description: |
       Chicharrones quinoa brooklyn, **_subway tile_** pug la croix activated charcoal 
       organic meditation craft beer raclette celiac. Flannel austin craft beer 
