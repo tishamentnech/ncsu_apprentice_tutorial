@@ -1,10 +1,10 @@
----
-layout: page
+--- <!-- headers don't put anything above this -->
+layout: page <!-- this isn't something to change really -->
 title: Configuration
-
+<!-- -->
 order: 2
 duration: 10
-tutorial: true
+tutorial: true <!-- this will go into table to contents if marked as true -->
 instructors_notes: true
 description: |
   Change the configuration settings for your workshop.
